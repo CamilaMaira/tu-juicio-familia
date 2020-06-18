@@ -1,0 +1,121 @@
+--- 
+files: 
+  certificate: 
+    tujuiciofamilia_cl_b7ad4_50f1d_1623815965_2ecdbf5df6845927794e4650d0f9e93d: 
+      created: '1592279965'
+      domains: 
+        - tujuiciofamilia.cl
+        - mail.tujuiciofamilia.cl
+        - www.tujuiciofamilia.cl
+        - cpanel.tujuiciofamilia.cl
+        - webmail.tujuiciofamilia.cl
+        - webdisk.tujuiciofamilia.cl
+        - cpcontacts.tujuiciofamilia.cl
+        - cpcalendars.tujuiciofamilia.cl
+      friendly_name: Cert for “tujuiciofamilia.cl”
+      id: tujuiciofamilia_cl_b7ad4_50f1d_1623815965_2ecdbf5df6845927794e4650d0f9e93d
+      is_self_signed: 1
+      issuer.commonName: tujuiciofamilia.cl
+      issuer.organizationName: ~
+      modulus: b7ad4f68a99ba66792f9381daaaff3bfecf2063da39bfb9be4baf0d5994b53c38f525dab07425fb5b2ed12a93c65709f9950ae540e571eb32788aacdd5b5c302dc32ba6a351e2d88968b1b0100a564f3712f5554b5a2187f49e1ca2393defac65c71a0b214814a8a2711aa33f30ba760a6345d4c49aa2cfd06150b6007861e1fb424cb55e246e065903749e236964795e081fb44adfddc7cf084ee4c99213e4f56edd93137d39f1980b0febd8a760c90bbee3d110938d467e2dbc19a69280d777a52248ce7e46d85fea6e61eb512788f6c2bfeb994c09d7e89bfdd477469b0ead876561aacd0a38391215278f2d49719f3efdde5bdd4ebfe5785d74328d50f1d
+      modulus_length: 2048
+      not_after: '1623815965'
+      not_before: '1592279965'
+      serial: 024b32f920
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: tujuiciofamilia.cl
+      validation_type: ~
+    webmail_tujuiciofamilia_cl_b5a14_fac8b_1600214399_fe02620c726c7993ace2b246561af387: 
+      created: '1592433303'
+      domains: 
+        - webmail.tujuiciofamilia.cl
+        - cpanel.tujuiciofamilia.cl
+        - cpcalendars.tujuiciofamilia.cl
+        - cpcontacts.tujuiciofamilia.cl
+        - webdisk.tujuiciofamilia.cl
+      friendly_name: Cert for “tujuiciofamilia.cl” 1592433303.0
+      id: webmail_tujuiciofamilia_cl_b5a14_fac8b_1600214399_fe02620c726c7993ace2b246561af387
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      modulus: b5a14a16d9f356f12223814fcd4ef664b87aa9de7aa3026dcf02b5343b6139f7313090958d99e1d81b881cf954b2ddfab05b1a44b9073c04f91982651d6a9912c6ae85c5953f065039c2ceb0b83c145fa8ec853bbc8f25be866634a6d8bb693c94fd6a8417bfd7c62b233b0d6d82a91ff2fc3e36ab4e98273dfdfdcfa3a7fc34b3df8d0e2e166c8d1438db89e156e524b3c83bf60a17720decbbf81d1c67534b9fa0c9c51f152ec7ff9e8a75d4829b7240188fb493a476b838794dd07070682a56aefc392439cd3cd6f7b39c14630f78157ec7f3c73ea8c18fb08253c98e66e9224bedd606c32b10917044104411ccf6e67bb6ed9f10c83c5dea4f86025fac8b
+      modulus_length: 2048
+      not_after: '1600214399'
+      not_before: '1592352000'
+      serial: 3f2ba3f38e79679be1e188f9b0ce7d44
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: webmail.tujuiciofamilia.cl
+      validation_type: dv
+    webmail_tujuiciofamilia_cl_b68aa_853e3_1600300799_372d2d12d4342d9a4888121adfa16f93: 
+      created: '1592455923'
+      domains: 
+        - webmail.tujuiciofamilia.cl
+        - cpanel.tujuiciofamilia.cl
+        - cpcalendars.tujuiciofamilia.cl
+        - cpcontacts.tujuiciofamilia.cl
+        - mail.tujuiciofamilia.cl
+        - tujuiciofamilia.cl
+        - webdisk.tujuiciofamilia.cl
+        - www.tujuiciofamilia.cl
+      friendly_name: Cert for “tujuiciofamilia.cl” 1592455923.0
+      id: webmail_tujuiciofamilia_cl_b68aa_853e3_1600300799_372d2d12d4342d9a4888121adfa16f93
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      modulus: b68aaaaef1fb20a8d91fe61db5533caa1448512d6cc5f92020e0b8b8b2bdd32badacccd239b6dbca31fcdcf8ac9bb927ce30d47ee1f3436db2fd2f692104ddc9d5e33240460d8a56cd4e3cab3ab45c15e786d7962ad7f1534020781e86edbe2611c31ac755661de5aae47fe6183fce506026e25c958ede29cd9057cd1f3fe0785b970de71a505f6a2da8dcd20eb42a00d7ac472ed3e7f933c4c1c5ba022603fd80ac8b303de2eca0c97ab093976c815c0c5c98f32a2691b514e5b4c1ee98d7ff561f4a27ab3dfe28476148ca0531f3f4ac613b0aaf3419bdb85654969c1c49d87f8588afada255daf6f860f5a5164b86e79152820aeff9f51c46891fb40853e3
+      modulus_length: 2048
+      not_after: '1600300799'
+      not_before: '1592438400'
+      serial: 03976737e9b6e1e0c22b5165e8c5b184
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: webmail.tujuiciofamilia.cl
+      validation_type: dv
+  key: 
+    b5a14_fac8b_4e7bbe17b43711757e3b791c0c3e042f: 
+      created: '1592433303'
+      friendly_name: Key for “tujuiciofamilia.cl” 1592433303.0
+      id: b5a14_fac8b_4e7bbe17b43711757e3b791c0c3e042f
+      modulus: b5a14a16d9f356f12223814fcd4ef664b87aa9de7aa3026dcf02b5343b6139f7313090958d99e1d81b881cf954b2ddfab05b1a44b9073c04f91982651d6a9912c6ae85c5953f065039c2ceb0b83c145fa8ec853bbc8f25be866634a6d8bb693c94fd6a8417bfd7c62b233b0d6d82a91ff2fc3e36ab4e98273dfdfdcfa3a7fc34b3df8d0e2e166c8d1438db89e156e524b3c83bf60a17720decbbf81d1c67534b9fa0c9c51f152ec7ff9e8a75d4829b7240188fb493a476b838794dd07070682a56aefc392439cd3cd6f7b39c14630f78157ec7f3c73ea8c18fb08253c98e66e9224bedd606c32b10917044104411ccf6e67bb6ed9f10c83c5dea4f86025fac8b
+      modulus_length: 2048
+    b68aa_853e3_69d8093a3c99c6df9bce1cad06ca9572: 
+      created: '1592455923'
+      friendly_name: Key for “tujuiciofamilia.cl” 1592455923.0
+      id: b68aa_853e3_69d8093a3c99c6df9bce1cad06ca9572
+      modulus: b68aaaaef1fb20a8d91fe61db5533caa1448512d6cc5f92020e0b8b8b2bdd32badacccd239b6dbca31fcdcf8ac9bb927ce30d47ee1f3436db2fd2f692104ddc9d5e33240460d8a56cd4e3cab3ab45c15e786d7962ad7f1534020781e86edbe2611c31ac755661de5aae47fe6183fce506026e25c958ede29cd9057cd1f3fe0785b970de71a505f6a2da8dcd20eb42a00d7ac472ed3e7f933c4c1c5ba022603fd80ac8b303de2eca0c97ab093976c815c0c5c98f32a2691b514e5b4c1ee98d7ff561f4a27ab3dfe28476148ca0531f3f4ac613b0aaf3419bdb85654969c1c49d87f8588afada255daf6f860f5a5164b86e79152820aeff9f51c46891fb40853e3
+      modulus_length: 2048
+    b7ad4_50f1d_de974d4e6ccb1c63edcd58d664d79a51: 
+      created: '1592279965'
+      friendly_name: Key for “tujuiciofamilia.cl”
+      id: b7ad4_50f1d_de974d4e6ccb1c63edcd58d664d79a51
+      modulus: b7ad4f68a99ba66792f9381daaaff3bfecf2063da39bfb9be4baf0d5994b53c38f525dab07425fb5b2ed12a93c65709f9950ae540e571eb32788aacdd5b5c302dc32ba6a351e2d88968b1b0100a564f3712f5554b5a2187f49e1ca2393defac65c71a0b214814a8a2711aa33f30ba760a6345d4c49aa2cfd06150b6007861e1fb424cb55e246e065903749e236964795e081fb44adfddc7cf084ee4c99213e4f56edd93137d39f1980b0febd8a760c90bbee3d110938d467e2dbc19a69280d777a52248ce7e46d85fea6e61eb512788f6c2bfeb994c09d7e89bfdd477469b0ead876561aacd0a38391215278f2d49719f3efdde5bdd4ebfe5785d74328d50f1d
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      b5a14a16d9f356f12223814fcd4ef664b87aa9de7aa3026dcf02b5343b6139f7313090958d99e1d81b881cf954b2ddfab05b1a44b9073c04f91982651d6a9912c6ae85c5953f065039c2ceb0b83c145fa8ec853bbc8f25be866634a6d8bb693c94fd6a8417bfd7c62b233b0d6d82a91ff2fc3e36ab4e98273dfdfdcfa3a7fc34b3df8d0e2e166c8d1438db89e156e524b3c83bf60a17720decbbf81d1c67534b9fa0c9c51f152ec7ff9e8a75d4829b7240188fb493a476b838794dd07070682a56aefc392439cd3cd6f7b39c14630f78157ec7f3c73ea8c18fb08253c98e66e9224bedd606c32b10917044104411ccf6e67bb6ed9f10c83c5dea4f86025fac8b: 
+        webmail_tujuiciofamilia_cl_b5a14_fac8b_1600214399_fe02620c726c7993ace2b246561af387: ~
+      b68aaaaef1fb20a8d91fe61db5533caa1448512d6cc5f92020e0b8b8b2bdd32badacccd239b6dbca31fcdcf8ac9bb927ce30d47ee1f3436db2fd2f692104ddc9d5e33240460d8a56cd4e3cab3ab45c15e786d7962ad7f1534020781e86edbe2611c31ac755661de5aae47fe6183fce506026e25c958ede29cd9057cd1f3fe0785b970de71a505f6a2da8dcd20eb42a00d7ac472ed3e7f933c4c1c5ba022603fd80ac8b303de2eca0c97ab093976c815c0c5c98f32a2691b514e5b4c1ee98d7ff561f4a27ab3dfe28476148ca0531f3f4ac613b0aaf3419bdb85654969c1c49d87f8588afada255daf6f860f5a5164b86e79152820aeff9f51c46891fb40853e3: 
+        webmail_tujuiciofamilia_cl_b68aa_853e3_1600300799_372d2d12d4342d9a4888121adfa16f93: ~
+      b7ad4f68a99ba66792f9381daaaff3bfecf2063da39bfb9be4baf0d5994b53c38f525dab07425fb5b2ed12a93c65709f9950ae540e571eb32788aacdd5b5c302dc32ba6a351e2d88968b1b0100a564f3712f5554b5a2187f49e1ca2393defac65c71a0b214814a8a2711aa33f30ba760a6345d4c49aa2cfd06150b6007861e1fb424cb55e246e065903749e236964795e081fb44adfddc7cf084ee4c99213e4f56edd93137d39f1980b0febd8a760c90bbee3d110938d467e2dbc19a69280d777a52248ce7e46d85fea6e61eb512788f6c2bfeb994c09d7e89bfdd477469b0ead876561aacd0a38391215278f2d49719f3efdde5bdd4ebfe5785d74328d50f1d: 
+        tujuiciofamilia_cl_b7ad4_50f1d_1623815965_2ecdbf5df6845927794e4650d0f9e93d: ~
+    subject.commonName: 
+      tujuiciofamilia.cl: 
+        tujuiciofamilia_cl_b7ad4_50f1d_1623815965_2ecdbf5df6845927794e4650d0f9e93d: ~
+      webmail.tujuiciofamilia.cl: 
+        webmail_tujuiciofamilia_cl_b5a14_fac8b_1600214399_fe02620c726c7993ace2b246561af387: ~
+        webmail_tujuiciofamilia_cl_b68aa_853e3_1600300799_372d2d12d4342d9a4888121adfa16f93: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “tujuiciofamilia.cl”: tujuiciofamilia_cl_b7ad4_50f1d_1623815965_2ecdbf5df6845927794e4650d0f9e93d
+      Cert for “tujuiciofamilia.cl” 1592433303.0: webmail_tujuiciofamilia_cl_b5a14_fac8b_1600214399_fe02620c726c7993ace2b246561af387
+      Cert for “tujuiciofamilia.cl” 1592455923.0: webmail_tujuiciofamilia_cl_b68aa_853e3_1600300799_372d2d12d4342d9a4888121adfa16f93
+  key: 
+    friendly_name: 
+      Key for “tujuiciofamilia.cl”: b7ad4_50f1d_de974d4e6ccb1c63edcd58d664d79a51
+      Key for “tujuiciofamilia.cl” 1592433303.0: b5a14_fac8b_4e7bbe17b43711757e3b791c0c3e042f
+      Key for “tujuiciofamilia.cl” 1592455923.0: b68aa_853e3_69d8093a3c99c6df9bce1cad06ca9572
+    modulus: 
+      b5a14a16d9f356f12223814fcd4ef664b87aa9de7aa3026dcf02b5343b6139f7313090958d99e1d81b881cf954b2ddfab05b1a44b9073c04f91982651d6a9912c6ae85c5953f065039c2ceb0b83c145fa8ec853bbc8f25be866634a6d8bb693c94fd6a8417bfd7c62b233b0d6d82a91ff2fc3e36ab4e98273dfdfdcfa3a7fc34b3df8d0e2e166c8d1438db89e156e524b3c83bf60a17720decbbf81d1c67534b9fa0c9c51f152ec7ff9e8a75d4829b7240188fb493a476b838794dd07070682a56aefc392439cd3cd6f7b39c14630f78157ec7f3c73ea8c18fb08253c98e66e9224bedd606c32b10917044104411ccf6e67bb6ed9f10c83c5dea4f86025fac8b: b5a14_fac8b_4e7bbe17b43711757e3b791c0c3e042f
+      b68aaaaef1fb20a8d91fe61db5533caa1448512d6cc5f92020e0b8b8b2bdd32badacccd239b6dbca31fcdcf8ac9bb927ce30d47ee1f3436db2fd2f692104ddc9d5e33240460d8a56cd4e3cab3ab45c15e786d7962ad7f1534020781e86edbe2611c31ac755661de5aae47fe6183fce506026e25c958ede29cd9057cd1f3fe0785b970de71a505f6a2da8dcd20eb42a00d7ac472ed3e7f933c4c1c5ba022603fd80ac8b303de2eca0c97ab093976c815c0c5c98f32a2691b514e5b4c1ee98d7ff561f4a27ab3dfe28476148ca0531f3f4ac613b0aaf3419bdb85654969c1c49d87f8588afada255daf6f860f5a5164b86e79152820aeff9f51c46891fb40853e3: b68aa_853e3_69d8093a3c99c6df9bce1cad06ca9572
+      b7ad4f68a99ba66792f9381daaaff3bfecf2063da39bfb9be4baf0d5994b53c38f525dab07425fb5b2ed12a93c65709f9950ae540e571eb32788aacdd5b5c302dc32ba6a351e2d88968b1b0100a564f3712f5554b5a2187f49e1ca2393defac65c71a0b214814a8a2711aa33f30ba760a6345d4c49aa2cfd06150b6007861e1fb424cb55e246e065903749e236964795e081fb44adfddc7cf084ee4c99213e4f56edd93137d39f1980b0febd8a760c90bbee3d110938d467e2dbc19a69280d777a52248ce7e46d85fea6e61eb512788f6c2bfeb994c09d7e89bfdd477469b0ead876561aacd0a38391215278f2d49719f3efdde5bdd4ebfe5785d74328d50f1d: b7ad4_50f1d_de974d4e6ccb1c63edcd58d664d79a51
